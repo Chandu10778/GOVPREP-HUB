@@ -61,7 +61,7 @@ with app.app_context():
 
 @app.route('/')
 def home():
-    return "Backend Running 🚀"
+    return "Backend Running 🚀 "
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True)
