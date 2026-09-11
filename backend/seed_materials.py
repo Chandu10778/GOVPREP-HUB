@@ -48,6 +48,7 @@ SAMPLE_MATERIALS = [
 <h3>Fundamental Rights:</h3>
 <p>Articles 12-35 offer six core freedoms.</p>
 <ul>
+
   <li><strong>Right to Equality</strong> (Articles 14-18) – equality before law and prohibition of discrimination.</li>
   <li><strong>Right to Freedom</strong> (Articles 19-22) – includes expression, assembly, association, movement.</li>
   <li><strong>Right against Exploitation</strong> (Articles 23-24) – bans trafficking and child labour.</li>
@@ -61,6 +62,7 @@ SAMPLE_MATERIALS = [
   <li>Not enforceable in courts, but essential for governance.</li>
   <li>Includes goals such as social justice, welfare state, and economic equality.</li>
   <li>Examples: free legal aid, uniform civil code, protection of environment.</li>
+  
 </ul>
 
 <h3>Fundamental Duties:</h3>
