@@ -1,10 +1,4 @@
-"""
-Seed script to populate the Materials table with sample study content.
-Run this script to add initial materials to the database.
 
-If your database already contains old materials, clear the `material` table
-or reset the database before re-running this seed script.
-"""
 
 from app import app
 from models import db, Material
