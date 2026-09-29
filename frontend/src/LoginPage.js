@@ -59,6 +59,7 @@ function LoginPage({ setUser }) {
       toast.error('Name is required.');
       return;
     }
+    
     if (!validateEmail(email)) {
       toast.error('Please enter a valid email.');
       return;
