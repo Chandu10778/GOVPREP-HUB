@@ -39,6 +39,7 @@ function App() {
             setIsMobileMenuOpen={setIsMobileMenuOpen}
           >
             <Routes>
+              
               <Route path="/dashboard" element={<Dashboard user={user} setUser={setUser} />} />
               <Route path="/pyq" element={<PYQ user={user} setUser={setUser} />} />
               <Route path="/materials" element={<StudyMaterials user={user} setUser={setUser} />} />
@@ -46,6 +47,7 @@ function App() {
               <Route path="/chatbot" element={<Chatbot user={user} />} />
               <Route path="/profile" element={<Profile user={user} setUser={setUser} />} />
               <Route path="/" element={<Navigate to="/dashboard" />} />
+  
             </Routes>
           </Layout>
         ) : (
