@@ -2,22 +2,24 @@
 
 ---
 
+
 ## SLIDE 1: TITLE SLIDE
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
 │            AI-Powered Learning Platform                         │
 │                                                                 │
-│    Intelligent Tutoring System for Student Success             │
+│    Intelligent Tutoring System for Student Success              │
 │                                                                 │
 │                                                                 │
-│         Faculty of Science & Technology                        │
-│              IcfaiTech                                         │
+│         Faculty of Science & Technology                         │
+│              IcfaiTech                                          │
 │                                                                 │
-│    Department of Computer Science and Engineering              │
+│    Department of Computer Science and Engineering               │
 │                                                                 │
-│              Date: 20/04/2026                                 │
+│              Date: 20/04/2026                                   │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
+
 
 ---
 
